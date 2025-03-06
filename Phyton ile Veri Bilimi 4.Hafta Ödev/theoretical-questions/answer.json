@@ -1,0 +1,21 @@
+{
+    "file_modes": {
+        "r": "Read mode",
+        "w": "Write mode (Overwrites existing file)",
+        "a": "Append mode",
+        "x": "Create mode"
+    },
+    "functions": {
+        "read": "Reads entire file or specified bytes",
+        "readline": "Reads one line at a time",
+        "readlines": "Reads all lines as a list",
+        "with open": "Automatically closes the file after operation"
+    },
+    "json": "Used for data storage and exchange",
+    "json_usage": [
+        "Web APIs (Client-server data exchange)",
+        "Configuration files (Storing program settings)",
+        "Data storage (Alternative to databases in small projects)",
+        "Machine learning & data science (Handling large datasets)"
+    ]
+}
